@@ -42,3 +42,5 @@
 * https://hugogiraudel.com/2014/03/17/git-tips-and-tricks-part-2/
 * https://hugogiraudel.com/2014/03/24/git-tips-and-tricks-part-3/
 * https://hugogiraudel.com/2018/02/17/how-i-use-git/
+
+* https://www.youtube.com/watch?v=rTIqhOKT0zg
