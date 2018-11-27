@@ -44,3 +44,4 @@
 * https://hugogiraudel.com/2018/02/17/how-i-use-git/
 
 * https://www.youtube.com/watch?v=rTIqhOKT0zg
+* https://www.youtube.com/watch?v=ePG7F0rvNBc
