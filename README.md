@@ -11,7 +11,7 @@
 * https://jvns.ca/
 * http://misko.hevery.com/
 
-## Articles
+## Articles & Videos
 
 ### Languages
 
