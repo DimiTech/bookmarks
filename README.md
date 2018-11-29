@@ -17,8 +17,6 @@
 
 * https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
 
----
-
 ### Professionalism
 
 * https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
