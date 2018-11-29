@@ -25,11 +25,6 @@
 * http://www.paulgraham.com/head.html
 * http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html
 
-### µServices
-
-* https://www.martinfowler.com/microservices/
-* http://basho.com/posts/technical/microservices-please-dont/
-
 ### Software in General
 
 * http://tonsky.me/blog/disenchantment/
@@ -54,4 +49,9 @@
 ### Architecture and Scaling
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
+
+#### µServices
+
+* https://www.martinfowler.com/microservices/
+* http://basho.com/posts/technical/microservices-please-dont/
 * https://softwareengineeringdaily.com/2018/10/02/shopify-infrastructure-migration/
