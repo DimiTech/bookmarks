@@ -32,6 +32,10 @@
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 
+#### RESTful APIs
+
+* https://blog.octo.com/en/design-a-rest-api/
+
 #### µServices
 
 * https://www.martinfowler.com/microservices/
