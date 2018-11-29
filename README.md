@@ -27,10 +27,6 @@
 
 * http://tonsky.me/blog/disenchantment/
 
-#### Monorepo
-
-* https://softwareengineeringdaily.com/2018/11/27/report-we-went-monorepo/
-
 ### Architecture and Scaling
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
@@ -53,3 +49,7 @@
 * https://hugogiraudel.com/2018/02/17/how-i-use-git/
 * https://www.youtube.com/watch?v=rTIqhOKT0zg
 * https://www.youtube.com/watch?v=ePG7F0rvNBc
+
+#### Monorepo
+
+* https://softwareengineeringdaily.com/2018/11/27/report-we-went-monorepo/
