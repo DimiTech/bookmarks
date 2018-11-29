@@ -5,6 +5,7 @@
 * https://www.thoughtworks.com/podcasts
 * https://www.infoq.com/the-infoq-podcast
 * https://softwareengineeringdaily.com/
+* http://www.fullstackradio.com/
 
 ## Blogs
 
@@ -36,6 +37,10 @@
 * https://www.martinfowler.com/microservices/
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://softwareengineeringdaily.com/2018/10/02/shopify-infrastructure-migration/
+
+#### Rapid Prototyping
+
+* http://www.fullstackradio.com/101
 
 ### Git
 
