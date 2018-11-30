@@ -30,6 +30,7 @@
 
 ### Architecture and Scaling
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
+* https://www.infoq.com/podcasts/slack-keith-adams
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 
 #### RESTful APIs
