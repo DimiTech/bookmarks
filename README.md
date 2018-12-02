@@ -43,6 +43,10 @@
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://softwareengineeringdaily.com/2018/10/02/shopify-infrastructure-migration/
 
+#### Containers
+
+[Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js](https://www.youtube.com/watch?v=S4ez739fles)
+
 #### Rapid Prototyping
 
 * http://www.fullstackradio.com/101
