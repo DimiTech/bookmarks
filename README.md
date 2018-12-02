@@ -45,8 +45,8 @@
 
 #### Containers
 
-[Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js](https://www.youtube.com/watch?v=S4ez739fles)
-[Rapidly Developing Microservices with Node js and Docker - William Blankenship](https://www.youtube.com/watch?v=SUNxn0omNi4)
+* [Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js](https://www.youtube.com/watch?v=S4ez739fles)
+* [Rapidly Developing Microservices with Node js and Docker - William Blankenship](https://www.youtube.com/watch?v=SUNxn0omNi4)
 
 #### Rapid Prototyping
 
