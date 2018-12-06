@@ -11,12 +11,34 @@
 
 * https://jvns.ca/
 * http://misko.hevery.com/
+* http://tonsky.me/
+
+## Algorithms / Coding Challenges
+
+* https://www.codewars.com
+
+## Reverse Enginerring / Hacking
+
+* https://www.youtube.com/user/RootOfTheNull/videos
+* https://www.youtube.com/user/mediacccde/videos
+
+## Privacy
+
+* https://screamingatmyscreen.com/2018/5/taking-back-control-of-my-digital-life/
+
+## Cryptography
+
+* https://www.youtube.com/channel/UCf-SZJdgPu9E8i1qWpTSx0A/videos
 
 ## Resources
 
 ### Languages
 
 * https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
+
+#### JavaScript
+
+* https://www.youtube.com/watch?v=STKCRSUsyP0
 
 ### Professionalism
 
@@ -28,10 +50,22 @@
 
 * http://tonsky.me/blog/disenchantment/
 
+### Testing
+
+* https://martinfowler.com/articles/mocksArentStubs.html
+* http://misko.hevery.com/2008/06/30/unit-tests-way-of-thinking/
+
+### Application Security
+
+#### OAuth2.0
+
+* [RealtimeConf - “OAuth 2.0 - Looking Back and Moving On” by Eran Hammer](https://vimeo.com/52882780)
+
 ### Architecture and Scaling
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 * https://www.infoq.com/podcasts/slack-keith-adams
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
+* [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
 #### RESTful APIs
 
