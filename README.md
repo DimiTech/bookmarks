@@ -63,12 +63,25 @@
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
+### Layered Architecture
+
+* https://dzone.com/articles/layered-architecture-is-good
+
+### Hexagonal Architecture
+
+* https://web.archive.org/web/20180822100852/http://alistair.cockburn.us/Hexagonal+architecture
+* https://fideloper.com/hexagonal-architecture
+* https://dzone.com/articles/hello-hexagonal-architecture-1
+* https://www.culttt.com/2014/12/31/hexagonal-architecture/
+* https://www.infoq.com/news/2014/10/exploring-hexagonal-architecture
+
 #### RESTful APIs
 
 * https://blog.octo.com/en/design-a-rest-api/
 
 #### Design Patterns:
 
+* https://refactoring.guru/design-patterns/structural-patterns
 * https://github.com/iluwatar/java-design-patterns
 
 #### µServices
@@ -76,6 +89,10 @@
 * https://www.martinfowler.com/microservices/
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://softwareengineeringdaily.com/2018/10/02/shopify-infrastructure-migration/
+
+#### Serverless
+
+* https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e
 
 #### Containers
 
@@ -100,6 +117,7 @@
 * https://hugogiraudel.com/2014/03/17/git-tips-and-tricks-part-2/
 * https://hugogiraudel.com/2014/03/24/git-tips-and-tricks-part-3/
 * https://hugogiraudel.com/2018/02/17/how-i-use-git/
+* https://github.com/k88hudson/git-flight-rules
 * https://www.youtube.com/watch?v=rTIqhOKT0zg
 * https://www.youtube.com/watch?v=ePG7F0rvNBc
 
