@@ -36,10 +36,6 @@
 
 * https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
 
-#### JavaScript
-
-* https://www.youtube.com/watch?v=STKCRSUsyP0
-
 ### Professionalism
 
 * https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
