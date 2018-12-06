@@ -37,6 +37,10 @@
 
 * https://blog.octo.com/en/design-a-rest-api/
 
+#### Design Patterns:
+
+* https://github.com/iluwatar/java-design-patterns
+
 #### µServices
 
 * https://www.martinfowler.com/microservices/
