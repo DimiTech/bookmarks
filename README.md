@@ -93,6 +93,7 @@
 
 #### Serverless
 
+* https://www.manning.com/livevideo/production-ready-serverless
 * https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e
 * https://gojko.net/2016/08/27/serverless.html
 
