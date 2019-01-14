@@ -47,6 +47,10 @@
 
 * http://tonsky.me/blog/disenchantment/
 
+### Refactoring
+
+* https://martinfowler.com/articles/refactoring-external-service.html
+
 ### Testing
 
 * https://martinfowler.com/articles/mocksArentStubs.html
