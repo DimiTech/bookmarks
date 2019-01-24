@@ -27,6 +27,10 @@
 
 * https://screamingatmyscreen.com/2018/5/taking-back-control-of-my-digital-life/
 
+## Encoding
+
+* https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
 ## Cryptography
 
 * https://www.youtube.com/channel/UCf-SZJdgPu9E8i1qWpTSx0A/videos
@@ -80,37 +84,37 @@
 * https://www.culttt.com/2014/12/31/hexagonal-architecture/
 * https://www.infoq.com/news/2014/10/exploring-hexagonal-architecture
 
-#### RESTful APIs
+### RESTful APIs
 
 * https://blog.octo.com/en/design-a-rest-api/
 
-#### Design Patterns:
+### Design Patterns:
 
 * https://refactoring.guru/design-patterns/structural-patterns
 * https://github.com/iluwatar/java-design-patterns
 
-#### µServices
+### µServices
 
 * https://www.martinfowler.com/microservices/
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://softwareengineeringdaily.com/2018/10/02/shopify-infrastructure-migration/
 
-#### Serverless
+### Serverless
 
 * https://www.manning.com/livevideo/production-ready-serverless
 * https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e
 * https://gojko.net/2016/08/27/serverless.html
 
-#### Containers
+### Containers
 
 * [Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js](https://www.youtube.com/watch?v=S4ez739fles)
 * [Rapidly Developing Microservices with Node js and Docker - William Blankenship](https://www.youtube.com/watch?v=SUNxn0omNi4)
 
-#### Rapid Prototyping
+### Rapid Prototyping
 
 * http://www.fullstackradio.com/101
 
-#### Caching
+### Caching
 
 * https://content.pivotal.io/blog/an-introduction-to-look-aside-vs-inline-caching-patterns
 
