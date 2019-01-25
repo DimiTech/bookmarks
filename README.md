@@ -66,6 +66,9 @@
 
 * [RealtimeConf - “OAuth 2.0 - Looking Back and Moving On” by Eran Hammer](https://vimeo.com/52882780)
 
+#### Password Hashing
+* https://crackstation.net/hashing-security.htm
+
 ### Architecture and Scaling
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 * https://www.infoq.com/podcasts/slack-keith-adams
