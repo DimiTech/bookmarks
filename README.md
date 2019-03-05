@@ -70,6 +70,7 @@
 * https://crackstation.net/hashing-security.htm
 
 ### Architecture and Scaling
+* https://github.com/binhnguyennus/awesome-scalability#architecture
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 * https://www.infoq.com/podcasts/slack-keith-adams
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
