@@ -34,6 +34,7 @@
 ## Cryptography
 
 * http://www.kixx.name/blogs/web_development/encrypt_files_passwords_to_send_securely_by_email_with_gpg
+* https://www.gnupg.org/gph/en/manual.html
 * https://www.youtube.com/channel/UCf-SZJdgPu9E8i1qWpTSx0A/videos
 
 ## Resources
