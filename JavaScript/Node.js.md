@@ -10,6 +10,7 @@
 
 ## Architecture
 
+* [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
 * [Ideal Node.jsj Project Structure](https://softwareontheroad.com/ideal-nodejs-project-structure/) - [Reddit Thread](https://www.reddit.com/r/node/comments/bea9ab/bulletproof_nodejs_project_architecture/)
 
 ## Testing
