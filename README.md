@@ -83,6 +83,10 @@
 
 * https://dzone.com/articles/layered-architecture-is-good
 
+### Modular Monoliths
+
+* https://www.infoq.com/news/2019/04/monolith-vs-microservices
+
 ### Hexagonal Architecture
 
 * https://web.archive.org/web/20180822100852/http://alistair.cockburn.us/Hexagonal+architecture
