@@ -13,3 +13,6 @@
 
 ## Pros & Cons
 * [It's not worth it. Productivity will drop enormously](https://news.ycombinator.com/item?id=18962969)
+
+## Decorators
+* [Express.js Routing with TypeScript Decorators (how to build your own decorators for express routes...)](https://nehalist.io/routing-with-typescript-decorators/)
