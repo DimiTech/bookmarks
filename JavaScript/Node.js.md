@@ -16,3 +16,6 @@
 ## Testing
 
 * [All You Need to Know About Integration Testing: SuperTest, Mocha, and Chai](https://www.codementor.io/olatundegaruba/integration-testing-supertest-mocha-chai-6zbh6sefz)
+
+## Logging
+* [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging)
