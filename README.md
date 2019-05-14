@@ -65,6 +65,11 @@
 
 ### Application Security
 
+#### JWT
+
+* [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)
+](https://www.youtube.com/watch?v=2PPSXonhIck)
+
 #### OAuth2.0
 
 * [RealtimeConf - “OAuth 2.0 - Looking Back and Moving On” by Eran Hammer](https://vimeo.com/52882780)
