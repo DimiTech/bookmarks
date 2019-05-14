@@ -67,6 +67,7 @@
 
 #### JWT
 
+* [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
 * [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)
 ](https://www.youtube.com/watch?v=2PPSXonhIck)
 
