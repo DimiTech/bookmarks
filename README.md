@@ -65,11 +65,16 @@
 
 ### Application Security
 
+#### Session
+
+* [Session Authentication in Express](https://www.youtube.com/watch?v=OH6Z0dJ_Huk)
+
 #### JWT
 
 * [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
 * [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)
 ](https://www.youtube.com/watch?v=2PPSXonhIck)
+* [JWT Introduction](https://jwt.io/introduction/)
 
 #### OAuth2.0
 
