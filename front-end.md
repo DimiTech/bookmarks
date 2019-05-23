@@ -18,4 +18,8 @@
 
 ## CSS Grid
 
-* (CSS Grid Changes EVERYTHING - Amazing Presentation)[https://youtu.be/7kVeCqQCxlk]
+* [CSS Grid Changes EVERYTHING - Amazing Presentation](https://youtu.be/7kVeCqQCxlk)
+
+## CSS Peculiarities
+
+* [Z-Index And The CSS Stack: Which Element Displays First?](http://vanseodesign.com/css/css-stack-z-index/)
