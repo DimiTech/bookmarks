@@ -20,6 +20,16 @@
 
 * [CSS Grid Changes EVERYTHING - Amazing Presentation](https://youtu.be/7kVeCqQCxlk)
 
+
+## CSS Sprites
+
+* [CSS Background Image Hacks](http://nicolasgallagher.com/css-background-image-hacks/)
+* [Simple Rounded Corners with a CSS Sprite](https://bavotasan.com/2009/simple-rounded-corners-with-a-css-sprite/)
+* [Fast Rollovers Without Preload](http://wellstyled.com/css-nopreload-rollovers.html)
+* [CSS Sprites: Image Slicing’s Kiss of Death](https://alistapart.com/article/sprites/)
+* [Xah Lee - CSS Image Sprites](http://xahlee.info/js/css_image_sprites.html)
+* [Sprites, Semantics & Scalability: A Demo with Playing Cards](
+
 ## CSS Peculiarities
 
 * [Z-Index And The CSS Stack: Which Element Displays First?](http://vanseodesign.com/css/css-stack-z-index/)
