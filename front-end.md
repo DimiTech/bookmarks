@@ -12,8 +12,10 @@
 * https://www.0to255.com/
 * https://color.adobe.com/create
 
-## CSS Positioning
+## CSS Basics
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 * [Positioning Content](https://learn.shayhowe.com/html-css/positioning-content/)
+* [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 
 ## CSS FlexBox
 * https://yoksel.github.io/flex-cheatsheet/
