@@ -34,8 +34,12 @@
 * [CSS Sprites: Image Slicing’s Kiss of Death](https://alistapart.com/article/sprites/)
 * [Xah Lee - CSS Image Sprites](http://xahlee.info/js/css_image_sprites.html)
 * [Sprites, Semantics & Scalability: A Demo with Playing Cards](https://spin.atomicobject.com/2013/02/22/css-sprite-semantics-scaleability/)
-* [CSS Images (from Safari CSS Cookbook)]](https://www.oreilly.com/library/view/css-cookbook-3rd/9781449377250/ch04.html)
+* [CSS Images (from Safari CSS Cookbook)](https://www.oreilly.com/library/view/css-cookbook-3rd/9781449377250/ch04.html)
 
 ## CSS Peculiarities
 
 * [Z-Index And The CSS Stack: Which Element Displays First?](http://vanseodesign.com/css/css-stack-z-index/)
+
+## CSS How-To
+
+* [Responsive Background Image](https://www.webfx.com/blog/web-design/responsive-background-image/)
