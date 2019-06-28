@@ -43,3 +43,7 @@
 ## CSS How-To
 
 * [Responsive Background Image](https://www.webfx.com/blog/web-design/responsive-background-image/)
+
+## Online tools
+* [Crop PNG](https://www.iloveimg.com/crop-image/crop-png)
+* [Photopea (browser Photoshop clone)](photopea.com)
