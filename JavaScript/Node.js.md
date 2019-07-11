@@ -19,3 +19,6 @@
 
 ## Logging
 * [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging)
+
+## New Features
+* [12.6.0 New Features](https://tsh.io/blog/new-node-js-features/)
