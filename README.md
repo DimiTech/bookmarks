@@ -83,6 +83,10 @@
 #### Password Hashing
 * https://crackstation.net/hashing-security.htm
 
+#### CORS
+
+* https://fosterelli.co/developers-dont-understand-cors
+
 ### Architecture and Scaling
 * https://github.com/binhnguyennus/awesome-scalability#architecture
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
