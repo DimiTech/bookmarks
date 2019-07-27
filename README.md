@@ -102,6 +102,7 @@
 ### Modular Monoliths
 
 * https://www.infoq.com/news/2019/04/monolith-vs-microservices
+* [https://youtu.be/5OjqD-ow8GE](GOTO 2018 • Modular Monoliths • Simon Brown)
 
 ### Hexagonal Architecture
 
