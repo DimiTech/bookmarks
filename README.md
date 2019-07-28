@@ -97,6 +97,7 @@
 
 #### S.O.L.I.D. Principles
 
+* [S.O.L.I.D. the next step is functional](https://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 * [The S.O.L.I.D. Principles in Real Life](https://www.infragistics.com/community/blogs/b/erikdietrich/posts/the-solid-principles-in-real-life)
 
 ### Layered Architecture
