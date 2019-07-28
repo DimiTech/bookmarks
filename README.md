@@ -95,6 +95,10 @@
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
+#### S.O.L.I.D. Principles
+
+* [The S.O.L.I.D. Principles in Real Life](https://www.infragistics.com/community/blogs/b/erikdietrich/posts/the-solid-principles-in-real-life)
+
 ### Layered Architecture
 
 * https://dzone.com/articles/layered-architecture-is-good
