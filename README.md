@@ -55,6 +55,16 @@
 
 * http://tonsky.me/blog/disenchantment/
 
+### CI/CD
+
+* [The Continuous Delivery Maturity Model](https://www.infoq.com/articles/Continuous-Delivery-Maturity-Model/)
+* [Continuous Deployment in Scrum - Delta-N](https://www.delta-n.nl/continuous-deployment-in-scrum/)
+
+### Code Review
+
+* [CodeProject - Code review guidelines](https://www.codeproject.com/Articles/524235/Codeplusreviewplusguidelines)
+* [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+
 ### Refactoring
 
 * https://martinfowler.com/articles/refactoring-external-service.html
