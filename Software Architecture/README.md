@@ -42,6 +42,7 @@
 * https://www.martinfowler.com/microservices/
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://softwareengineeringdaily.com/2018/10/02/shopify-infrastructure-migration/
+* https://philcalcado.com/2018/09/24/services_layers.html
 
 ### Serverless
 
