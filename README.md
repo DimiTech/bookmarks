@@ -71,6 +71,7 @@
 
 ### Testing
 
+* https://martinfowler.com/articles/practical-test-pyramid.html
 * https://martinfowler.com/articles/mocksArentStubs.html
 * http://misko.hevery.com/2008/06/30/unit-tests-way-of-thinking/
 * https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009
