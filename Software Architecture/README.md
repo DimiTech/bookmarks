@@ -14,6 +14,10 @@
 
 * https://dzone.com/articles/layered-architecture-is-good
 
+### DDD (Domain-Driven Design)
+
+* https://enterprisecraftsmanship.com/posts/having-the-domain-model-separate-from-the-persistence-model/
+
 ### Modular Monoliths
 
 * https://www.infoq.com/news/2019/04/monolith-vs-microservices
