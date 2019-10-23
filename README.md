@@ -44,6 +44,7 @@
 ### Languages
 
 * https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
+* [Static/Dynamic, Strong/Weak Typing](https://en.wikipedia.org/wiki/Type_system#STATIC)
 
 ### Professionalism
 
