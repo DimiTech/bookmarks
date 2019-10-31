@@ -77,6 +77,10 @@
 * http://misko.hevery.com/2008/06/30/unit-tests-way-of-thinking/
 * https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009
 
+#### Integration Testing
+
+* https://enterprisecraftsmanship.com/posts/integration-testing-or-how-to-sleep-well-at-nights/
+
 ### Application Security
 
 #### Session
