@@ -104,6 +104,7 @@
 #### CORS
 
 * https://fosterelli.co/developers-dont-understand-cors
+* https://dev.to/g33konaut/understanding-cors-aaf
 
 ### Caching
 
