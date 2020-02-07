@@ -1,9 +1,13 @@
-## Architecture and Scaling
-* https://github.com/binhnguyennus/awesome-scalability#architecture
+## Architecture (General)
 * https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 * https://www.infoq.com/podcasts/slack-keith-adams
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+
+### Scaling
+* https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
+* http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
+* https://github.com/binhnguyennus/awesome-scalability#architecture
 
 ### S.O.L.I.D. Principles
 
