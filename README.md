@@ -105,6 +105,7 @@
 
 * https://fosterelli.co/developers-dont-understand-cors
 * https://dev.to/g33konaut/understanding-cors-aaf
+* https://dzone.com/articles/do-you-really-know-cors
 
 ### Caching
 
