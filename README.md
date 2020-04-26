@@ -15,6 +15,10 @@
 * https://gojko.net/
 * https://blog.ploeh.dk/
 
+## The Internet
+
+* [How Google Search Works?](https://support.google.com/webmasters/answer/70897?hl=en)
+
 ## Algorithms / Coding Challenges
 
 * https://www.codewars.com
