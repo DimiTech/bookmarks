@@ -24,4 +24,5 @@
 * [12.6.0 New Features](https://tsh.io/blog/new-node-js-features/)
 
 ## Diagnostics
+* [Throw Me a Lifebuoy: Debugging Node.js in Production with Diagnostic Reports - Christopher Hiller](https://www.youtube.com/watch?v=IxETA6wZWlg)
 * [Node 14 Diagnostic Report](https://medium.com/the-node-js-collection/easily-identify-problems-in-node-js-applications-with-diagnostic-report-dc82370d8029)
