@@ -1,3 +1,7 @@
+# ECMAScript features
+
+* [ECMAScript - new features list](https://github.com/daumann/ECMAScript-new-features-list)
+
 # Native APIs
 
 * [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
