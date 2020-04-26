@@ -1,6 +1,8 @@
 # ECMAScript features
 
+* [V8 JavaScript & WebAssembly Features](https://v8.dev/features)
 * [ECMAScript - new features list](https://github.com/daumann/ECMAScript-new-features-list)
+* [Optional Chaining](https://v8.dev/features/optional-chaining)
 
 # Native APIs
 
