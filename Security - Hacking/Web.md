@@ -4,7 +4,7 @@
 
 # Free Training
 
-* [Kontra Free Application Security Training](https://application.security/free-application-security-training)
+* [Kontra OWASP Top 10](https://application.security/free-application-security-training)
 
 # XSS (JavaScript)
 * [Jim Manico Owasp Sthlm nov 18 1](https://www.youtube.com/watch?v=IymtJ0aLnYo)
