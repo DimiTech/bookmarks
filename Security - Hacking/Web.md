@@ -13,3 +13,7 @@
 # JWT Hacking
 
 * [Auth0 JWT Validation Bypass](https://insomniasec.com/blog/auth0-jwt-validation-bypass)
+
+# Docker Hacking
+
+* [Attacking and Auditing Docker Containers and Kubernetes Clusters](https://github.com/appsecco/attacking-and-auditing-docker-containers-and-kubernetes-clusters)
