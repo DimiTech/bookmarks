@@ -1,6 +1,7 @@
 # Guides
 
 * [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/)
+* [Nahamsec - Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 # Free Training
 
