@@ -1,3 +1,6 @@
+# JavaScript Engine Inner Workings
+* [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
+
 # ECMAScript features
 
 * [V8 JavaScript & WebAssembly Features](https://v8.dev/features)
