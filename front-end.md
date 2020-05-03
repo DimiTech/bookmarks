@@ -3,6 +3,10 @@
 ## General
 * http://codingheroes.io/resources/
 
+## Performance:
+* [Lighthouse - Optimize Web Pages](https://developers.google.com/web/tools/lighthouse)
+* [Optimize Website Speed With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/speed/get-started)
+
 ## HTML5:
 * https://websitesetup.org/html5-cheat-sheet/
 
