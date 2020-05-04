@@ -13,6 +13,7 @@
 * http://misko.hevery.com/
 * http://tonsky.me/
 * https://gojko.net/
+* https://mikicaivosevic.info/
 * https://blog.ploeh.dk/
 
 ## The Internet
