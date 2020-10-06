@@ -28,6 +28,7 @@
 ## CSS Grid
 
 * [CSS Grid Changes EVERYTHING - Amazing Presentation](https://youtu.be/7kVeCqQCxlk)
+* [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
 
 
 ## CSS Sprites
