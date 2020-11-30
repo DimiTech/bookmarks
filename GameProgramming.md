@@ -11,3 +11,7 @@
 ## Pathfinding
 
 * https://www.gamasutra.com/view/feature/3313/coordinated_unit_movement.php?print=1
+
+## Networking
+
+* [Quake’s 3-D Engine: The Big Picture by Michael Abrash](https://www.bluesnews.com/abrash/chap70.shtml)
