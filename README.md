@@ -57,6 +57,10 @@
 * http://www.paulgraham.com/head.html
 * http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html
 
+### Conventions
+
+* [Most Common Programming Case Types](https://www.chaseadams.io/posts/most-common-programming-case-types/)
+
 ### Software in General
 
 * http://tonsky.me/blog/disenchantment/
