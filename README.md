@@ -16,9 +16,10 @@
 * https://mikicaivosevic.info/
 * https://blog.ploeh.dk/
 
-## The Internet
+## Networking
 
 * [How Google Search Works?](https://support.google.com/webmasters/answer/70897?hl=en)
+* [DNS Structure & SEO](https://moz.com/learn/seo/domain)
 
 ## Algorithms / Coding Challenges
 
