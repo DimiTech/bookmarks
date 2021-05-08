@@ -91,6 +91,12 @@
 
 * https://enterprisecraftsmanship.com/posts/integration-testing-or-how-to-sleep-well-at-nights/
 
+### APIs
+
+#### GraphQL
+
+* [Why you shouldn't use GraphQL](https://blog.logrocket.com/why-you-shouldnt-use-graphql/)
+
 ### Application Security
 
 #### Session
