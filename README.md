@@ -99,6 +99,7 @@
 
 #### JWT
 
+* [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 * [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
 * [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)
 ](https://www.youtube.com/watch?v=2PPSXonhIck)
