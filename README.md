@@ -71,6 +71,10 @@
 * [The Continuous Delivery Maturity Model](https://www.infoq.com/articles/Continuous-Delivery-Maturity-Model/)
 * [Continuous Deployment in Scrum - Delta-N](https://www.delta-n.nl/continuous-deployment-in-scrum/)
 
+### Semantic Versioning
+
+* [Okta - Semantic Versioning Sucks! Long Live Semantic Versioning](https://developer.okta.com/blog/2019/12/16/semantic-versioning)
+
 ### Code Review
 
 * [CodeProject - Code review guidelines](https://www.codeproject.com/Articles/524235/Codeplusreviewplusguidelines)
