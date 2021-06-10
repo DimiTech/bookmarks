@@ -5,7 +5,10 @@
 * [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
 * [Demystifying ENTRYPOINT and CMD in Docker](https://aws.amazon.com/blogs/opensource/demystifying-entrypoint-cmd-docker/)
 
-## Docker in Docker
+### Minimal Images
+* [The Quest for Minimal Docker Images, part 3](https://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/)
+
+### Docker in Docker
 * [Do not use Docker in Docker for CI](https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/)
 
 ## Kubernetes
