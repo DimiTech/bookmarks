@@ -103,6 +103,10 @@
 
 ### Application Security
 
+#### Authorization
+
+* [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard)
+
 #### Session
 
 * [Session Authentication in Express](https://www.youtube.com/watch?v=OH6Z0dJ_Huk)
