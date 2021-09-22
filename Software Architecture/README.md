@@ -42,12 +42,17 @@
 
 ## µServices
 
+* [Microservices and [Micro]services - Vaughn Vernon](https://kalele.io/microservices-and-microservices/)
 * https://microservices.io/
 * https://www.martinfowler.com/microservices/
 * http://basho.com/posts/technical/microservices-please-dont/
 * https://softwareengineeringdaily.com/2018/10/02/shopify-infrastructure-migration/
 * https://philcalcado.com/2018/09/24/services_layers.html
 * [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices)
+
+## Enterprise architecture & Team organization
+
+* https://www.thoughtworks.com/insights/articles/demystifying-conways-law
 
 ## Serverless
 
