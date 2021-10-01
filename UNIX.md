@@ -6,3 +6,7 @@
 
 ## Bash
 * [Parameter Expansion](http://wiki-dev.bash-hackers.org/syntax/pe)
+
+## AWK
+
+* [Understanding AWK - earthly.dev](https://earthly.dev/blog/awk-examples/)
