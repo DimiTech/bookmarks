@@ -78,3 +78,7 @@
 
 ### Transaction Script
 * https://learnbycode.wordpress.com/2015/04/12/the-business-logic-layer-transaction-script-pattern/
+
+## Search
+
+* https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
