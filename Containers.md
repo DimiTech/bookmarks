@@ -18,6 +18,7 @@
 
 * [SEDaily: The Gravity of Kubernetes](https://softwareengineeringdaily.com/2018/01/13/the-gravity-of-kubernetes/)
 * [React Application Environment Variables through Kubernetes](https://blog.codecentric.de/en/2018/12/react-application-container-environment-aware-kubernetes-deployment/)
+* [Service Discovery in Kubernetes](https://iximiuz.com/en/posts/service-discovery-in-kubernetes/)
 
 ### kubectl
 
