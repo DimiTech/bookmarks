@@ -20,6 +20,7 @@
 
 * [How Google Search Works?](https://support.google.com/webmasters/answer/70897?hl=en)
 * [DNS Structure & SEO](https://moz.com/learn/seo/domain)
+* [Why was Facebook down for five hours? (DNS)](https://www.youtube.com/watch?v=-wMU8vmfaYo)
 
 ## Algorithms / Coding Challenges
 
