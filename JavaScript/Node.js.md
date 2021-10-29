@@ -1,3 +1,7 @@
+## Node Internals
+
+* [Event Loop Utilization in Node.js](https://nodesource.com/blog/event-loop-utilization-nodejs)
+
 ## Native Modules - Implementation
 
 * [Understanding Event Emitters](https://css-tricks.com/understanding-event-emitters/)
