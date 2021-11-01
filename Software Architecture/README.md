@@ -50,6 +50,10 @@
 * https://philcalcado.com/2018/09/24/services_layers.html
 * [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices)
 
+## BFF - Backends For Frontends
+
+* [BFF - The Backend For Frontend Pattern](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
+
 ## Enterprise architecture & Team organization
 
 * https://www.thoughtworks.com/insights/articles/demystifying-conways-law
