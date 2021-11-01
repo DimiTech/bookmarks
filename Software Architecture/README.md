@@ -4,6 +4,9 @@
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
+## Architecture Patterns
+* [PresentationModel](https://martinfowler.com/eaaDev/PresentationModel.html)
+
 ### Scaling
 * https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
 * http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
