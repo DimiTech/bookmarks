@@ -96,6 +96,9 @@
 
 * https://enterprisecraftsmanship.com/posts/integration-testing-or-how-to-sleep-well-at-nights/
 
+#### Contract Testing
+* https://docs.pact.io/
+
 ### APIs
 
 #### GraphQL
