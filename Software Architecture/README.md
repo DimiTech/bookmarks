@@ -53,10 +53,15 @@
 * https://philcalcado.com/2018/09/24/services_layers.html
 * [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices)
 
-## BFF - Backends For Frontends
+## FrontEnd
+
+### BFF - Backends For Frontends
 
 * [Some thoughts on GraphQL vs. BFF](https://philcalcado.com/2019/07/12/some_thoughts_graphql_bff.html)
 * [BFF - The Backend For Frontend Pattern](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
+
+### FrontEnd Architecture
+* [Building Resilient Frontend Architecture • Monica Lent • GOTO 2019](https://www.youtube.com/watch?v=TqfbAXCCVwE)
 
 ## Enterprise architecture & Team organization
 
