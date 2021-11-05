@@ -53,6 +53,10 @@
 * https://philcalcado.com/2018/09/24/services_layers.html
 * [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices)
 
+### Distibuted Transactions
+
+* [Distributed Transaction Patterns Compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
+
 ## FrontEnd
 
 ### BFF - Backends For Frontends
