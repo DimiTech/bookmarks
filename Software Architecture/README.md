@@ -81,6 +81,13 @@
 * https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e
 * https://gojko.net/2016/08/27/serverless.html
 
+### Serverless Best Practices
+* [Lambda VPC: Pros & Cons](https://lumigo.io/aws-lambda-deployment/lambda-vpc/)
+
+### Serverless Architecture
+
+* [Enterprise Serverless Architecture](https://medium.com/swlh/enterprise-serverless-architecture-39c4f4ae5aff)
+
 ## Containers
 
 * [Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js](https://www.youtube.com/watch?v=S4ez739fles)
