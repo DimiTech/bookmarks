@@ -27,3 +27,6 @@
 ### kubectl
 
 * [Mac OS X and .local Domains](https://blog.scottlowe.org/2006/01/04/mac-os-x-and-local-domains/)
+
+## AWS
+* [Introducing IPv6-only subnets and EC2 instances](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-ipv6-only-subnets-and-ec2-instances/)
