@@ -110,3 +110,7 @@
 ## Search
 
 * https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
+
+# Case Studies
+
+* [4 Microservices Caching Patterns at Wix](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f)
