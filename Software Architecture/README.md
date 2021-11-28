@@ -6,6 +6,7 @@
 
 ## Architecture Patterns
 * [PresentationModel](https://martinfowler.com/eaaDev/PresentationModel.html)
+* [Business Logic Layer - Transaction Script Pattern](https://learnbycode.wordpress.com/2015/04/12/the-business-logic-layer-transaction-script-pattern/)
 
 ### Scaling
 * https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
@@ -56,6 +57,7 @@
 ### Distibuted Transactions
 
 * [Distributed Transaction Patterns Compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
+* [Not Just Events: Developing Asynchronous Microservices • Chris Richardson • GOTO 2019](https://youtu.be/kyNL7yCvQQc)
 
 ## FrontEnd
 
@@ -101,11 +103,6 @@
 
 * https://refactoring.guru/design-patterns/structural-patterns
 * https://github.com/iluwatar/java-design-patterns
-
-## Architectural Patterns
-
-### Transaction Script
-* https://learnbycode.wordpress.com/2015/04/12/the-business-logic-layer-transaction-script-pattern/
 
 ## Search
 
