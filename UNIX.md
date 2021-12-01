@@ -10,3 +10,7 @@
 ## AWK
 
 * [Understanding AWK - earthly.dev](https://earthly.dev/blog/awk-examples/)
+
+## sed
+
+* [Useful sed](https://github.com/adrianscheff/useful-sed)
