@@ -11,6 +11,7 @@
 * https://github.com/k88hudson/git-flight-rules
 * https://www.youtube.com/watch?v=rTIqhOKT0zg
 * https://www.youtube.com/watch?v=ePG7F0rvNBc
+* [Why You Should Use git pull –ff-only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)
 
 ### GitHub
 
