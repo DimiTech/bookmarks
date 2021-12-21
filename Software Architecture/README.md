@@ -3,6 +3,7 @@
 * https://www.infoq.com/podcasts/slack-keith-adams
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+* [Software Architecture is Overrated, Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
 
 ## Architecture Patterns
 * [PresentationModel](https://martinfowler.com/eaaDev/PresentationModel.html)
