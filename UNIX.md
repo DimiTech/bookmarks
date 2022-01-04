@@ -14,3 +14,7 @@
 ## sed
 
 * [Useful sed](https://github.com/adrianscheff/useful-sed)
+
+## tmux
+
+* [How do I reorder tmux windows?](https://superuser.com/a/343574)
