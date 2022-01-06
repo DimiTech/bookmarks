@@ -21,7 +21,6 @@
 * [How Google Search Works?](https://support.google.com/webmasters/answer/70897?hl=en)
 * [DNS Structure & SEO](https://moz.com/learn/seo/domain)
 * [Why was Facebook down for five hours? (DNS)](https://www.youtube.com/watch?v=-wMU8vmfaYo)
-* [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
 
 ## Algorithms / Coding Challenges
 
