@@ -18,3 +18,7 @@
 ## tmux
 
 * [How do I reorder tmux windows?](https://superuser.com/a/343574)
+
+## Core Utils
+
+https://www.maizure.org/projects/decoded-gnu-coreutils/
