@@ -23,6 +23,7 @@
 * [SEDaily: The Gravity of Kubernetes](https://softwareengineeringdaily.com/2018/01/13/the-gravity-of-kubernetes/)
 * [React Application Environment Variables through Kubernetes](https://blog.codecentric.de/en/2018/12/react-application-container-environment-aware-kubernetes-deployment/)
 * [Service Discovery in Kubernetes](https://iximiuz.com/en/posts/service-discovery-in-kubernetes/)
+* [Scaling Kubernetes to >4k Nodes and 200k Pods - PayPal](https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed)
 
 ### kubectl
 
