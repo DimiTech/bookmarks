@@ -41,9 +41,10 @@
 * https://www.culttt.com/2014/12/31/hexagonal-architecture/
 * https://www.infoq.com/news/2014/10/exploring-hexagonal-architecture
 
-## RESTful APIs
+## APIs
 
 * https://blog.octo.com/en/design-a-rest-api/
+* https://www.infoq.com/podcasts/api-showdown-rest-graphql-grpc/
 
 ## µServices
 
