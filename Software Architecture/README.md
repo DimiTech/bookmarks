@@ -44,7 +44,8 @@
 
 ## APIs
 
-* https://www.infoq.com/podcasts/api-showdown-rest-graphql-grpc/
+* [What does "Smart Endpoints and Dumb Pipes" mean?](https://nordicapis.com/what-does-smart-endpoints-and-dumb-pipes-mean/)
+* [API Showdown: REST vs GraphQL vs gRPC](https://www.infoq.com/podcasts/api-showdown-rest-graphql-grpc/)
 
 ### API Design
 * https://nordicapis.com/what-does-hyrums-law-mean-for-api-design/
