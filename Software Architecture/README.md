@@ -43,8 +43,11 @@
 
 ## APIs
 
-* https://blog.octo.com/en/design-a-rest-api/
 * https://www.infoq.com/podcasts/api-showdown-rest-graphql-grpc/
+
+### API Design
+* https://nordicapis.com/what-does-hyrums-law-mean-for-api-design/
+* https://blog.octo.com/en/design-a-rest-api/
 
 ## µServices
 
