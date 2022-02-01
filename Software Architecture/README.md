@@ -4,6 +4,7 @@
 * https://softwareengineeringdaily.com/2018/06/27/shopify-infrastructure-with-niko-kurtti/
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [Software Architecture is Overrated, Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
+* [Gall's Law](https://www.freecodecamp.org/news/galls-law-and-what-it-has-to-do-with-startups-fd85dfbd6703/)
 
 ## Architecture Patterns
 * [PresentationModel](https://martinfowler.com/eaaDev/PresentationModel.html)
