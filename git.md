@@ -1,7 +1,7 @@
 ## Git
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
-* https://chris.beams.io/posts/git-commit/
+* [How to Write a Git Commit Message - Chis Beams](https://cbea.ms/git-commit/)
 * https://www.codewithjason.com/atomic-commits-testing/
 * https://seesparkbox.com/foundry/atomic_commits_with_git
 * http://adopteungit.fr/en/methodology/2017/04/26/how-to-do-atomic-commits.html
