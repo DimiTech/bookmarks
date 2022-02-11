@@ -79,6 +79,7 @@
 ### µFrontends
 
 * [Micro Frontends – a strive for fully verticalized systems - David Leitner](https://www.youtube.com/watch?v=TQoABqkPkAE)
+* [Micro Frontends Don't Exist](https://itnext.io/micro-frontends-dont-exist-93228c6d2a73)
 
 ## Enterprise architecture & Team organization
 
