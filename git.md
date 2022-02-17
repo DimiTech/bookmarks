@@ -1,6 +1,7 @@
 ## Git
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+* [Git Branch Naming Conventions](https://deepsource.io/blog/git-branch-naming-conventions/)
 * [How to Write a Git Commit Message - Chis Beams](https://cbea.ms/git-commit/)
 * https://www.codewithjason.com/atomic-commits-testing/
 * https://seesparkbox.com/foundry/atomic_commits_with_git
