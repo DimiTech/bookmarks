@@ -2,6 +2,10 @@
 
 * [Event Loop Utilization in Node.js](https://nodesource.com/blog/event-loop-utilization-nodejs)
 
+# NPM
+
+* [Solving conflicts in package-lock.json](https://tkdodo.eu/blog/solving-conflicts-in-package-lock-json)
+
 ## Native Modules - Implementation
 
 * [Understanding Event Emitters](https://css-tricks.com/understanding-event-emitters/)
