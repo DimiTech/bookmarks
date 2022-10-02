@@ -146,3 +146,8 @@
 
 * [5 Laws of API Dates and Times](http://apiux.com/2013/03/20/5-laws-api-dates-and-times/)
 * [UTC is enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+
+### Data Formats
+
+- https://noyaml.com/
+- [TOML vs JSON](https://everythingsysadmin.com/2015/06/toml-vs-json.html)
