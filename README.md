@@ -15,6 +15,7 @@
 * https://gojko.net/
 * https://mikicaivosevic.info/
 * https://blog.ploeh.dk/
+* https://philcalcado.com/
 
 ## Networking
 
