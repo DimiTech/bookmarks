@@ -1,3 +1,6 @@
+## 2D Math
+* [How to check if two line segments intersect](https://martin-thoma.com/how-to-check-if-two-line-segments-intersect/)
+
 ## Raycasting
 
 * https://www.youtube.com/watch?v=eOCQfxRQ2pY
