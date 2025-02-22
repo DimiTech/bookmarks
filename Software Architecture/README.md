@@ -11,6 +11,10 @@
 * [PresentationModel](https://martinfowler.com/eaaDev/PresentationModel.html)
 * [Business Logic Layer - Transaction Script Pattern](https://learnbycode.wordpress.com/2015/04/12/the-business-logic-layer-transaction-script-pattern/)
 
+## Authentication / Authorization
+* [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+  * [Stop using JWT for sessions - Flowchart](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
+
 ### Scaling
 * https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
 * http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
