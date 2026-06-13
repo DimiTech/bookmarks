@@ -22,3 +22,8 @@
 ### Monorepo
 
 * https://softwareengineeringdaily.com/2018/11/27/report-we-went-monorepo/
+
+### Merge Queues & Trunk Based Workflows
+
+* https://trunk.io/blog/when-your-development-team-actually-needs-a-merge-queue
+* https://trunk.io/learn/what-is-a-merge-queue-and-do-you-need-one
